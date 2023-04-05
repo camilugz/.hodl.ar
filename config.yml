@@ -26,19 +26,18 @@ blocks:
     icon: instagram
     url: https://www.instagram.com/camilugz
 
- - title: Twitter
-   icon: twitter
-   url: https://twitter.com/camilugagz
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/camilugagz
     
-- title: LinkedIn # Este es el nombre del botón
-  icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-  url: https://linkedin.com/in/camilugs # Link a donde redireccionará al hacer click
+  - title: LinkedIn # Este es el nombre del botón
+    icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
+    url: https://linkedin.com/in/camilugs # Link a donde redireccionará al hacer click
 
-- title: Github
-  icon: github
-  url: https://github.com/camilugz
+  - title: Github
+    icon: github
+    url: https://github.com/camilugz
  
-
 # - title: Sitio Web
 #   icon: url
 #   url: https://www.TU-WEB.com
